@@ -1,5 +1,5 @@
 {
-    "name": "clue/redis-server",
+    "name": "ab/phredis-server",
     "description": "A redis server implementation in pure PHP",
     "keywords": ["redis", "server", "async", "react"],
     "homepage": "https://github.com/clue/php-redis-server",
